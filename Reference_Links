@@ -1,0 +1,323 @@
+基本搜索方法——Alpha-Beta搜索
+http://www.xqbase.com/computer/search_alphabeta.htm
+
+【五子棋AI循序渐进】发布一个完整的有一定棋力的版本（含源码）_浩洋_新浪博客
+http://blog.sina.com.cn/s/blog_901b1abf01014zvy.html
+
+智能五子棋_百度文库
+http://wenku.baidu.com/view/319e952ebd64783e09122b46.html
+
+五子棋AI循序渐进【6】置换表 - zcsor~流浪dè风 - 博客园
+http://www.cnblogs.com/zcsor/archive/2012/07/23/2605211.html
+
+五子棋中的高效Hash算法 – Zorbrist数组 at GCCFeli.cn
+http://gccfeli.cn/2011/01/efficient-hash-calculation-in-gomok-zorbrist-array.html
+
+【转】as3 五子棋AI算法_MeetLunay_百度空间
+http://hi.baidu.com/sunnylearner/item/88db5063714fbd1c7ddeccb7
+
+五子棋人工智能的分析与实现_百度文库
+http://wenku.baidu.com/view/f3020044336c1eb91a375d7d.html
+
+五子棋人机对弈代码——之博弈树算法 - 人人为我，我为人人 - 博客频道 - CSDN.NET
+http://blog.csdn.net/handsomesunshineboy/article/details/6175106
+
+五子棋的核心算法 - Java ME论坛 - 51CTO技术论坛_中国领先的IT技术社区
+http://bbs.51cto.com/thread-861723-1.html
+
+博弈树搜索的算法改进.pdf_免费高速下载_新浪爱问共享资料
+http://ishare.iask.sina.com.cn/f/15326129.html?from=like
+
+16五子棋人机对弈_百度文库
+http://wenku.baidu.com/view/681df0d584254b35eefd3412.html
+
+五子棋研究_咬定青松_新浪博客
+http://blog.sina.com.cn/s/blog_492dbb6b0100l2zd.html
+
+magice/gomoku-1901 · GitHub
+https://github.com/magice/gomoku-1901
+
+br-gomoku - Revision 2: /trunk/src/player
+http://br-gomoku.googlecode.com/svn/trunk/src/player/
+
+五子棋人机对弈_百度文库
+http://wenku.baidu.com/view/0fcd16f8fab069dc502201a0.html
+
+五子棋之评估函数_HIGHSAM的空间_百度空间
+http://hi.baidu.com/highsam/item/51e42d3d8c75c7f0e6bb7a41
+
+五子棋课程_百度文库
+http://wenku.baidu.com/view/90bb6be8172ded630b1cb685.html
+
+完成了五子棋的估值函数_卖乐_新浪博客
+http://blog.sina.com.cn/s/blog_49e3450b010005tk.html
+
+五子棋人工智能权重估值算法_百度文库
+http://wenku.baidu.com/view/df62c7eaaeaad1f346933fb0.html
+
+棋类算法整理 - xiaodan007的专栏 - 博客频道 - CSDN.NET
+http://blog.csdn.net/xiaodan007/article/category/671299
+
+Skywind Inside » TINY-GOBANG 最精简的五子棋人机对战
+http://www.joynb.net/blog/archives/1029
+
+百度搜索_pdf 五子棋机器博弈系统评估函数的设计
+http://www.baidu.com/s?wd=pdf+%E4%BA%94%E5%AD%90%E6%A3%8B%E6%9C%BA%E5%99%A8%E5%8D%9A%E5%BC%88%E7%B3%BB%E7%BB%9F%E8%AF%84%E4%BC%B0%E5%87%BD%E6%95%B0%E7%9A%84%E8%AE%BE%E8%AE%A1
+
+EvaluatorFunctions.h - tj-charlie-gomoku - TJ and Charlie's Gomoku Program - Google Project Hosting
+https://code.google.com/p/tj-charlie-gomoku/source/browse/trunk/Gomoku/Gomoku/EvaluatorFunctions.h?spec=svn23&r=23
+
+Main.cpp - tj-charlie-gomoku - TJ and Charlie's Gomoku Program - Google Project Hosting
+https://code.google.com/p/tj-charlie-gomoku/source/browse/trunk/Gomoku/Gomoku/Main.cpp?r=32
+
+/trunk/ - uwo-gomoku - A C implementation of a program that will play one turn of Gomoku (five in a row). - Google Project Hosting
+https://code.google.com/p/uwo-gomoku/source/browse/trunk/?r=25
+
+threat.c - uwo-gomoku - A C implementation of a program that will play one turn of Gomoku (five in a row). - Google Project Hosting
+https://code.google.com/p/uwo-gomoku/source/browse/trunk/threat.c?r=25
+
+五子棋人机对弈代码——之穷举递归法 - 人人为我，我为人人 - 博客频道 - CSDN.NET
+http://blog.csdn.net/handsomesunshineboy/article/details/6099501
+
+如何下好五子棋_百度知道
+http://zhidao.baidu.com/question/176181844.html
+
+Chess.java - JAVA五子棋 -JAVA Gobang Gobang... 免费开源代码 开发,分享 - CodeForge.cn
+http://www.codeforge.cn/read/86430/Chess.java__html
+
+Evaluate.java - JAVA五子棋 -JAVA Gobang Gobang... 免费开源代码 开发,分享 - CodeForge.cn
+http://www.codeforge.cn/read/86430/Evaluate.java__html
+
+Introduction and Program Design of Gobang_Agal.Nest_百度空间
+http://hi.baidu.com/aagal/item/94cb0af6abd556c0a835a2e9
+
+Gobang,Introduction _ China Wikipedia|China wikipedia wiki
+http://www.wiki86.com/view/2697.htm
+
+Gobang 7 basic defensive technique
+http://test.zhaoxinpeng.com/viewjy.php?id=d71306356b9c0713fdf47506
+
+Gobang skills illustrated
+http://test.zhaoxinpeng.com/viewjy.php?id=03b2f78caaf8875ea337ae44
+
+Gobang point selection
+http://test.zhaoxinpeng.com/viewjy.php?id=8065f87fc0a91c23312498fb
+
+局面评估函数——简介(一)
+http://www.xqbase.com/computer/evalue_intro1.htm
+
+Machine Learning in Games
+http://satirist.org/learn-game/
+
+AlphaBeta.java - sjtu-05acm-hsx-ai-gobang - The ai gobang homework - Google Project Hosting
+https://code.google.com/p/sjtu-05acm-hsx-ai-gobang/source/browse/trunk/AI_GoBang/gobang/util/AlphaBeta.java?r=3
+
+CS 161 Recitation Notes - Minimax with Alpha Beta Pruning
+http://www.cs.ucla.edu/~rosen/161/notes/alphabeta.html
+
+AlphaBeta - gray-matter - An alpha-beta pruning example game. - Gray Matter - Chess Engine - Google Project Hosting
+https://code.google.com/p/gray-matter/wiki/AlphaBeta
+
+search - Trouble applying the Alpha Beta Pruning algorithm to this tree - Stack Overflow
+http://stackoverflow.com/questions/14086493/trouble-applying-the-alpha-beta-pruning-algorithm-to-this-tree
+
+Computer Science Game Trees
+http://www.ocf.berkeley.edu/~yosenl/extras/alphabeta/alphabeta.html
+
+Computer Chess Programming » Blog Archive » Chess Tree Search
+http://chess.verhelst.org/1997/03/10/search/
+
+搜索在智能中的作用_人工智能吧_百度贴吧
+http://tieba.baidu.com/p/1088360495
+
+剪枝算法_cooper_新浪博客
+http://blog.sina.com.cn/s/blog_5e52f1990100dprs.html
+
+algorithm - Alpha-beta pruning for Minimax - Stack Overflow
+http://stackoverflow.com/questions/7888754/alpha-beta-pruning-for-minimax
+
+Computer Chess Programming Theory
+http://www.frayn.net/beowulf/theory.html#abpruning
+
+Alpha-Beta pruning - Everything2.com
+http://everything2.com/title/Alpha-Beta+pruning
+
+c++ - Iterative Deepening Negamax with Alpha-Beta Pruning - Stack Overflow
+http://stackoverflow.com/questions/13549594/iterative-deepening-negamax-with-alpha-beta-pruning
+
+Alpha beta pruning in chess
+http://cboard.cprogramming.com/game-programming/137642-alpha-beta-pruning-chess.html
+
+Help With Minimax Alpha-Beta Pruning - C And C++ | Dream.In.Code
+http://www.dreamincode.net/forums/topic/194364-help-with-minimax-alpha-beta-pruning/
+
+c - Alpha beta pruning root move - Stack Overflow
+http://stackoverflow.com/questions/10298008/alpha-beta-pruning-root-move
+
+Min-Max Principle and Alpha-Beta Pruning
+http://www.clear.rice.edu/comp212/08-spring/lectures/39/
+
+algorithm - C++ minimax function - Stack Overflow
+http://stackoverflow.com/questions/3630669/c-minimax-function
+
+Algorithms and Complexity.pdf_免费高速下载_新浪爱问共享资料
+http://ishare.iask.sina.com.cn/f/23531755.html
+
+AlphaBeta剪枝算法 - 毒龙的程序人生 - 博客园
+http://www.cnblogs.com/speeding/archive/2012/09/20/2694704.html
+
+剪枝法的应用失误_象棋吧_百度贴吧
+http://tieba.baidu.com/p/748969817
+
+Monkey黑白棋 所使用的经典算法(源代码) - 编程的艺术世界 - Bruce Lee - 博客频道 - CSDN.NET
+http://blog.csdn.net/fengart/article/details/1568955
+
+α-β剪枝 - 电脑黑白棋 - 阿宋黑白棋天地
+http://www.soongsky.com/computer/alpha_beta.php
+
+例析Alpha-Beta剪枝 - tianranhe@csdn - 博客频道 - CSDN.NET
+http://blog.csdn.net/tianranhe/article/details/8301756
+
+前言 - 电脑黑白棋 - 阿宋黑白棋天地
+http://www.soongsky.com/computer/index.php
+
+Tic-Tac-Toe, Tic-Tac-Toe game using alpha beta search algorithm - PHP Classes
+http://www.phpclasses.org/package/6622-PHP-Tic-Tac-Toe-game-using-alpha-beta-search-algorithm.html
+
+PHP Tutorial: 2 Player Tic-Tac-Toe Game (no database required) | Online Game Development
+http://jadendreamer.wordpress.com/2012/01/31/php-tutorial-2-player-tic-tac-toe-game-no-database-required/
+
+基于α-β剪枝的一字棋源代码_百度文库
+http://wenku.baidu.com/view/193ecf6a58fafab069dc0221.html
+
+一字棋游戏设计-极大极小搜索 - Watkins.Song - 博客频道 - CSDN.NET
+http://blog.csdn.net/weixingstudio/article/details/7228205
+
+CS 540 Lecture Notes: Game Playing
+http://pages.cs.wisc.edu/~dyer/cs540/notes/games.html
+
+PHP Tic-Tac-Toe MinMax algorithm implementation « Shaked Klein Orbach
+http://www.shakedos.com/php-tic-tac-toe-minmax-algorithm-implementation/
+
+TicTacToe/TicTacToe at master · Shaked/TicTacToe · GitHub
+https://github.com/Shaked/TicTacToe/tree/master/TicTacToe
+
+Tic Tac Toe Minimax Algorithm Problem - Game Development | Dream.In.Code
+http://www.dreamincode.net/forums/topic/196321-tic-tac-toe-minimax-algorithm-problem/
+
+理解极小极大算法 (Understanding The Minimax Algorithm) [译]
+http://www.starming.com/index.php?action=plugin&v=wave&tpl=union&ac=viewgrouppost&gid=34694&tid=15724&pg=2
+
+五子棋攻防技巧_百度经验
+http://jingyan.baidu.com/article/4e5b3e198bc8b991901e24d0.html
+
+【入门】五子棋断奶班基础知识第二版_五子棋吧_百度贴吧
+http://tieba.baidu.com/p/2180847383
+
+QSet for QString : QSet « Qt « C++
+http://www.java2s.com/Code/Cpp/Qt/QSetforQString.htm
+
+QT：用QSet储存自定义结构体的问题 - 小豪之家 - 博客频道 - CSDN.NET
+http://blog.csdn.net/aaa20090987/article/details/7384966
+
+判断五子棋胜负条件的算法,求最优算法,一个月后结帐 - CSDN论坛 - CSDN.NET
+http://bbs.csdn.net/topics/10254270
+
+16五子棋人机对弈.doc - 豆丁网
+http://www.docin.com/p-478770070.html
+
+Qt - koilin的专栏 - 博客频道 - CSDN.NET
+http://blog.csdn.net/koilin/article/category/1154179
+
+连珠五子棋基本知识-基本子力分类 - 中国棋院在线
+http://games.sports.cn/wuziqiorg/zs/2009-08-05/1852800.html
+
+五子棋基础入门教程（三） 单一棋形与组合棋形 - 中国棋院在线
+http://games.sports.cn/topicmatch/jc/wzq/2010-03-14/1986943.html
+
+五子棋基本知识_百度文库
+http://wenku.baidu.com/view/5173312f0722192e4536f668.html
+
+Gomoku In HTML5| Yao Yujian
+http://yjyao.com/2012/06/gomoku-in-html5.html
+
+连珠五子@中国连珠网
+http://www.rifchina.com/qtym/jianjie2.html
+
+《五子棋知识》连载17：进攻的基本技巧介绍 - 杰出连珠 ——五子棋网站
+http://www.jjie.net/viewnews-5211.html
+
+励精连珠教室 - 中国五子棋竞赛规则
+http://www.ljrenju.cn/rule/rule2003.htm
+
+五子棋入门教程：几种单一棋形之间的关系(2) - 5068儿童网
+http://www.5068.com/etcy/qiyi/146399_2.html
+
+Minimax search and alpha-beta pruning
+http://www.cs.cornell.edu/courses/cs312/2002sp/lectures/rec21.htm
+
+chessprogramming - Alpha-Beta
+http://chessprogramming.wikispaces.com/Alpha-Beta
+
+Alpha-Beta Pruning_百度文库
+http://wenku.baidu.com/view/db170e886529647d2728521a.html
+
+α-β搜索过程_百度文库
+http://wenku.baidu.com/view/b1af9d2b3169a4517723a3f4.html
+
+棋类博弈算法的改进_百度文库
+http://wenku.baidu.com/view/8a4d1b42336c1eb91a375d3a.html
+
+AlphaBeta剪枝算法_衣锦夜行_新浪博客
+http://blog.sina.com.cn/s/blog_5d9ee55e0100uuy2.html
+
+Solve Tic Tac Toe with the MiniMax algorithm - CodeProject
+http://www.codeproject.com/Articles/43622/Solve-Tic-Tac-Toe-with-the-MiniMax-algorithm
+
+五子棋开局技巧大全_百度文库
+http://wenku.baidu.com/view/622d7128af45b307e871974b.html
+
+【锁技篇】棋形棋理初步（三）_五子棋吧_百度贴吧
+http://tieba.baidu.com/p/2196653118
+
+Minimax算法研究（TicTacToe） - Univasity's (Share&Save) - ITeye技术网站
+http://univasity.iteye.com/blog/1170216
+
+Tic-tac-toe AI - Java Game Programming Case Study
+http://www.ntu.edu.sg/home/ehchua/programming/java/JavaGame_TicTacToe_AI.html
+
+Minimax algorithm with alpha-beta pruning in C#
+http://snipd.net/minimax-algorithm-with-alpha-beta-pruning-in-c
+
+Tic-Tac-Toe算法笔记(一)：Minimax算法 - Kavin Gray – Coder & Web Designer
+http://www.kavingray.com/blog/?p=129
+
+极小化极大算法与负极大值算法 » 迷途羔羊
+http://blog.matrix7.me/2011/03/%e6%9e%81%e5%b0%8f%e5%8c%96%e6%9e%81%e5%a4%a7%e7%ae%97%e6%b3%95%e4%b8%8e%e8%b4%9f%e6%9e%81%e5%a4%a7%e5%80%bc%e7%ae%97%e6%b3%95/#more-892
+
+理解极小极大算法 (Understanding The Minimax Algorithm) [译] - Univasity's (Share&Save) - ITeye技术网站
+http://univasity.iteye.com/blog/1170222
+
+Mathematics is Everything: Mathematics behind Tick-Tack-Toe
+http://mathematicsiseverything.blogspot.com/2010/08/mathematics-behind-tick-tack-toe.html
+
+人工智能-博弈树的搜索_百度文库
+http://wenku.baidu.com/view/ee910d619b6648d7c1c74643.html
+
+博弈树搜索算法研究_百度文库
+http://wenku.baidu.com/view/7c7b6260ddccda38376baf5d.html
+
+关于五子棋中的必胜开局_百度文库
+http://wenku.baidu.com/view/ba5cdf1c10a6f524ccbf85be.html
+
+【原创】五子棋大师2.0完整源码 - 骆金松的博客-----关注企业信息化、软件体系架构 - IT博客
+http://www.cnitblog.com/goldpine/archive/2010/11/10/71162.html
+
+湖南五子棋的日志 - 网易博客
+http://blog.163.com/jiangzhongshan1990@126/blog/#m=0
+
+Discussion Week 14 - Minimax and Alpha-Beta Pruning
+http://www.d.umn.edu/~kvanhorn/cs2511/discussions/minimax.html
+
+Tic-Tac-Toe算法笔记(二)：Alpha-beta剪枝算法 - Kavin Gray – Coder & Web Designer
+http://www.kavingray.com/blog/?p=191
